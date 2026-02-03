@@ -20,13 +20,7 @@ A simple Java Swing-based application that allows users to book airline tickets 
  ->Using Eclipse
 1. Open Eclipse
 2. Import project
-3. Run `Main.java` as Java Application
-
--> Using Terminal
-cd AirlineReservationSystemGUI
-cd src
-javac -d ../out module-info.java airline/*.java
-java --module-path ../out --module AirlineReservationSystemGUI/airline.Main
+3. Run `Main.java` as Java Application.
 
  ->Output
 The application opens a window where users can book and view airline ticket details.
